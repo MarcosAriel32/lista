@@ -770,3 +770,8 @@ https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Simpsons 24/7" tvg-logo="", Simpsons
+http://186.0.248.91:20202/Live/bfa7b0adbcd0020e2605ff122f0e4f3b/online-24-7.playlist.m3u8
