@@ -810,4 +810,4 @@ https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_cenc/America2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=014e1da962f84a1ea55b62de41daa137:dff58107b8dec036312840f5f02b073b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://apps.playme.com.ar/dash/CH_C5N/playlist.mpd|referer=https://vivo.playme.com.ar/web/playme/#/authorize
+https://apps.playme.com.ar/dash/CH_C5N/playlist.mpd|referer=https://vivo.playme.com.ar/
