@@ -669,36 +669,3 @@ http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd
 
-
-OTRAS SEÑALES
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Los Simpsons 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg", Los Simpsons 24/7
-http://186.0.248.91:20202/Live/bfa7b0adbcd0020e2605ff122f0e4f3b/online-24-7.playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Argentina-Soporte" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Trece
-https://broker.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",El Nueve
-https://broker.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",C5N
-https://broker.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
-
-#channel(tntseries)/manifest.mpd
-
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN
-https://broker.cdn.rcs.net.ar/mnp/yft2eRNwcYbjJwa0YvCvw8a6HoSQwc4g_hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 2
-https://broker.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k_hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 3
-https://broker.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR_hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Argentina-Soporte" tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.ibb.co/rfsd2VjZ/cda5c6e2dbc9ea21957ba4ca3105f64f-removebg-preview.png",ESPN 4
-https://broker.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY_hls/playlist.m3u8
-
-
-
