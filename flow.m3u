@@ -669,3 +669,11 @@ http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://portal.app.flow.com.ar/"
 http://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd
 
+
+
+
+Otras señales
+
+#EXTM3U
+#EXTINF:-1 tvg-name="ELTRECE.AR" tvg-logo="", El Trece 
+https://list.iptvcat.com/my_list/s/e48d456389f245219b6a334fe8d21edb.m3u8
