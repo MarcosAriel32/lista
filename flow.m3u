@@ -677,3 +677,8 @@ Otras señales
 #EXTM3U
 #EXTINF:-1 tvg-name="ELTRECE.AR" tvg-logo="", El Trece 
 https://list.iptvcat.com/my_list/s/e48d456389f245219b6a334fe8d21edb.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="", ESPN
+http://45.225.68.1:8532/Live/7f117f44e432121a6ccd68706448c761/local-ch29.playlist.m3u8
