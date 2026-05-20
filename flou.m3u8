@@ -45,8 +45,8 @@ https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/sa_hls_full_e_95AEFABF606F67368D6
 #EXTINF:15, Info Flow
 https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/sa_hls_full_e_95AEFABF606F67368D62A486/Info_Flow.m3u8
 
-#EXTINF:10, Video 3
-https://example.com/video3.ts
+#EXTINF:16, Tyc Sports 
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_hls_full_e_95AEFABF606F67368D62A486/TyCSport.m3u8
 
 #EXTINF:10, Video 3
 https://example.com/video3.ts
