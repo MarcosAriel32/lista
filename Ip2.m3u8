@@ -1,32 +1,29 @@
-#EXTM3U  url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
+#EXTM3U
+#EXTINF:-1 tvg-name="LPF PLAY" tvg-logo="", LFP PLAY 1
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/ed233177-a168-4fb8-ad02-e18511c61702/ed117932-c1e4-4c80-a942-40e34348fb24/2/streamPlaylist.m3u8
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092
-#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="Argentina" ch-number="23" type="channel",Volver
-https://edge-live18-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
-Origen":"https://portal.app.flow.com.py",
-Referente": "https://portal.app.flow.com.py/",
-User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-
-
-        "nombre": "EL TRECE",
-        "url": "
-https://edge-live18-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
-        "tipo": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png",
-        "encabezados": {
-            "Origen": "https://portal.app.flow.com.py",
-            "Referente": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-
-
-#EXTGRP:Noticias
-#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="A24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="Noticias", A24
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ijcz4cad4f6qzpfr8g5ogzoz&st:ysd9g4at&dl08688f094d092
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://edge-live18-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
-|referer=https://web.app.flow.com.ar/
+            {
+                "nombre": "LPF PLAY 2",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/104ae40d-4f59-42e1-9e29-191339fe1cd2/b8e341f5-b70d-4e62-8e74-dc044af8bb02/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "nombre": "LPF PLAY 3",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-cd18-4b47-a28b-7fe8352c41c2/ecc235c0-ff7d-4397-bcf1-9f8c9b91046c/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "nombre": "LPF PLAY 4",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f2245911-a2bb-4e0c-bf9b-58a5f6413c53/0b1e6e59-27b5-4b32-b0d8-5567d704bcd7/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "nombre": "LPF PLAY 5",
+                "url": "https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/451660d3-5f32-4879-8140-d4eeab548d6f/4674cb16-c94b-413f-8fb2-1ef969b7aa34/2/streamPlaylist.m3u8",
+                "icono": "https://i.ibb.co/svBWVF6y/unnamed.png"
+            },
+            {
+                "nombre": "TYC SPORT (PLAY 6)",
+                "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+                "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
