@@ -21,3 +21,12 @@ https://edge-live18-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/Artear
             "Origen": "https://portal.app.flow.com.py",
             "Referente": "https://portal.app.flow.com.py/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+
+
+#EXTGRP:Noticias
+#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="A24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="Noticias", A24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ijcz4cad4f6qzpfr8g5ogzoz&st:ysd9g4at&dl08688f094d092
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://edge-live18-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
+|referer=https://web.app.flow.com.ar/
