@@ -6,7 +6,9 @@
 #KODIPROP:inputstream.adaptive.license_key=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092
 #EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="Argentina" ch-number="23" type="channel",Volver
 https://edge-live18-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
-
+Origen":"https://portal.app.flow.com.py",
+Referente": "https://portal.app.flow.com.py/",
+User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
 
 
         "nombre": "EL TRECE",
